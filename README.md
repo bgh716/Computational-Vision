@@ -1,10 +1,10 @@
-# HW1
+# PJ1
 Digit(MNIST) Recognization with Convolutional Neural Network(CNN)
-# HW2
+# PJ2
 Image(CIFAR-100) Classification using CNN
-# HW3
+# PJ3
 Object Detection, Semantic Segmentation, and Instance segmentation
-# HW4
+# PJ4
 Augmented Reality with Plarnar Homographies
-# HW5
+# PJ5
 3D reconstruction(reconstructing 2D data to 3D using epipolar lines)
